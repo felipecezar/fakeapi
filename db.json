@@ -1,0 +1,11 @@
+{
+
+  "mudas" : [
+    {"ida": 1, "nome": "AMORA GIGANTE", "nomeCientifico": "Morus Nigra", "preco": 40.00, "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_amora_gigante_morus_nigra_699_3_20190521161348.jpg"}
+    {"ida": 2, "nome": "LICHIA BENGAL", "nomeCientifico": "Litchi chinensis", "preco": 35.00, "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_lichia_bengal_feita_de_alporque_1597_1_20190521161347.jpg"}
+    {"ida": 3, "nome": "MIRTILO BLUEBERRY", "nomeCientifico": "Vaccinium myrtillus", "preco": 98.00, "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_mirtilo_blueberry_woodard_produzindo_670_1_20190521161347.jpg"}
+    {"ida": 4, "nome": "PITAYA VERMELHA", "nomeCientifico": "Hylocereus undatus", "preco": 35.00, "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_vermelha_40cm_feita_de_estaca_6039_1_20190521161351.jpg"}
+    {"ida": 5, "nome": "ACEROLA GIGANTE", "nomeCientifico": "Malpighia emarginata", "preco": 35.00, "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_acerola_gigante_50cm_feita_de_semente_6035_1_20190521161351.jpg"}
+  ]
+
+}

@@ -4,6 +4,7 @@
       "id": 1, 
       "nome": "AMORA GIGANTE", 
       "nomeCientifico": "Morus Nigra", 
+      "categorias": ["frutiferas"],
       "preco": 40.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_amora_gigante_morus_nigra_699_3_20190521161348.jpg"
     },
@@ -11,6 +12,7 @@
       "id": 2, 
       "nome": "LICHIA BENGAL", 
       "nomeCientifico": "Litchi chinensis", 
+      "categorias": ["frutiferas"],
       "preco": 35.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_lichia_bengal_feita_de_alporque_1597_1_20190521161347.jpg"}
     ,
@@ -18,6 +20,7 @@
       "id": 3, 
       "nome": "MIRTILO BLUEBERRY", 
       "nomeCientifico": "Vaccinium myrtillus", 
+      "categorias": ["frutiferas"],
       "preco": 98.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_mirtilo_blueberry_woodard_produzindo_670_1_20190521161347.jpg"
     },
@@ -25,6 +28,7 @@
       "id": 4, 
       "nome": "PITAYA VERMELHA", 
       "nomeCientifico": "Hylocereus undatus", 
+      "categorias": ["frutiferas"],
       "preco": 35.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_vermelha_40cm_feita_de_estaca_6039_1_20190521161351.jpg"
     },
@@ -32,11 +36,65 @@
       "id": 5, 
       "nome": "ACEROLA GIGANTE", 
       "nomeCientifico": "Malpighia emarginata", 
+      "categorias": ["frutiferas"],
       "preco": 35.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_acerola_gigante_50cm_feita_de_semente_6035_1_20190521161351.jpg"
+    },
+    {
+      "id": 6, 
+      "nome": "LÍRIO DA PAZ", 
+      "nomeCientifico": "SPATHIPHYLLUM", 
+      "categorias": ["flores"],
+      "preco": 29.90, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/vaso_de_lirio_da_paz_spathiphyllum_pote_15_10367_1_20190722074306.jpg"
+    },
+    {
+      "id": 7, 
+      "nome": "BROMÉLIA", 
+      "nomeCientifico": "Bromeliaceas", 
+      "categorias": ["flores"],
+      "preco": 32.90, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/bromelia_variedades_e_cores_sortidas_pote_12_10371_1_20190624104841.jpg"
+    },
+    {
+      "id": 8, 
+      "nome": "ANTHURIUM", 
+      "nomeCientifico": "Anthurium andraenum", 
+      "categorias": ["flores"],
+      "preco": 34.90, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/anthurium_vermelho_pote_12_9448_1_20190521161356.jpg"
+    },
+    {
+      "id": 9, 
+      "nome": "PAU BRASIL", 
+      "nomeCientifico": "Caesalpinia Echinata lam", 
+      "categorias": ["arvores"],
+      "preco": 45.00, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_pau_brasil_feita_por_semente_9680_3_20190521161357.jpg"
+    },
+    {
+      "id": 10, 
+      "nome": "IPÊ ROSA", 
+      "nomeCientifico": "Handroanthus heptaphyllus", 
+      "categorias": ["arvores"],
+      "preco": 35.00, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_ipe_rosa_feita_de_semente_10791_1_20190808175908.jpg"
+    },
+    {
+      "id": 11, 
+      "nome": "JACARANDÁ MIMOSO ROXO", 
+      "nomeCientifico": "Jacaranda mimosifolia", 
+      "categorias": ["arvores"],
+      "preco": 35.00, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_jacaranda_mimoso_roxo_feita_de_semente_12157_1_20200203152519.jpg"
+    },
+    {
+      "id": 12, 
+      "nome": "EUCALIPTO ARCO-ÍRIS", 
+      "nomeCientifico": "Eucalyptus deglupta", 
+      "categorias": ["arvores"],
+      "preco": 29.00, 
+      "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_eucalipto_arco_iris_feita_de_semente_fc_15033_2_bce31e3eb7f32ff5792ecb46f1df8721.jpg"
     }
-  ],
-  "Empresa" : {
-    "nome": "Felipe Cezar SA"
-  }
+  ]
 }

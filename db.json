@@ -95,6 +95,14 @@
       "categorias": ["arvores"],
       "preco": 29.00, 
       "img": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_eucalipto_arco_iris_feita_de_semente_fc_15033_2_bce31e3eb7f32ff5792ecb46f1df8721.jpg"
+    },
+    {
+      "id": 13, 
+      "nome": "Jenipapo", 
+      "nomeCientifico": "Genipa americana", 
+      "categorias": ["arvores"],
+      "preco": 6.00, 
+      "img": "https://www.arvores.brasil.nom.br/new/jenipapo/genipa%20americana01.jpg"
     }
   ]
 }
